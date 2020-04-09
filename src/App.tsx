@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import DebounceExample from './components/common/DebounceExample';
+import DebounceExample from './components/Debounce/DebounceExample';
 
 function App() {
   return (
